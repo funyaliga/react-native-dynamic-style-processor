@@ -1,5 +1,5 @@
 {
-  "name": "react-native-dynamic-style-processor",
+  "name": "@funya._./react-native-dynamic-style-processor",
   "version": "0.21.0",
   "description": "React Native dynamic style processor combines multiple runtime style transformations together.",
   "main": "dist/index.js",
@@ -55,7 +55,7 @@
     "lint-staged": "^7.2.0",
     "npmpub": "^4.0.1",
     "prettier": "^1.13.7",
-    "react-native": "^0.58.6",
+    "react-native": "0.61.4",
     "rimraf": "^2.6.2",
     "size-limit": "^0.18.3"
   },
